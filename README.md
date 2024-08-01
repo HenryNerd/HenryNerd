@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Quantum Mk. 1
-- 🌱 I’m currently learning a lot
-- 👯 I work with @eliotgage
-- 😄 Pronouns: He/Him
+ 🔭 I’m currently working on Quantum Mk. 1
+ 🌱 I’m currently learning a lot
+ 👯 I work with @eliotgage
+ 😄 Pronouns: He/Him
 -->
