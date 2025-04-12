@@ -4,4 +4,4 @@
 ## Quantum One
   A 3d printer
 ## Echo Labs Development
-  Make expensive hard to hobiysts at an aforable price tag
+  Make expensive hardware avalible to hobiysts at an aforable price tag
