@@ -5,3 +5,6 @@
   A 3d printer
 ## Echo Labs Development
   Make expensive hardware avalible to hobiysts at an aforable price tag
+
+## Middleton Tech Club
+  A programing club for my local libbary
