@@ -10,7 +10,7 @@
 ## Quantum One
 A 3d printer
 ## Echo Labs Development
-Make expensive hardware avalible to hobiysts at an aforable price tag
+Make expensive hardware available to hobbyists at an affordable price tag
 
 ## Middleton Tech Club
-[Middleton Tech Club](https://github.com/middleton-tech-club) is a programing club for my local libbary
+[Middleton Tech Club](https://github.com/middleton-tech-club) is a programing club for my local library
