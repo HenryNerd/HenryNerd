@@ -7,10 +7,12 @@
 </p>
 
 # My Projects
-## Quantum One
-A 3d printer
-## Echo Labs Development
-Make expensive hardware avalible to hobiysts at an aforable price tag
 
-## Middleton Tech Club
-[Middleton Tech Club](https://github.com/middleton-tech-club) is a programing club for my local libbary
+## Quantum One: 
+An open-source 3D printer capable of manufacturing medium-sized parts reliably.
+
+## Echo Labs Development: 
+Making expensive hardware available to hobbyists at an affordable price.
+
+## Middleton Tech Club: 
+Middleton Tech Club is a programming club at the Middleton Public Library.
